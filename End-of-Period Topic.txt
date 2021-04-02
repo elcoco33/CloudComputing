@@ -1,0 +1,6 @@
+Đề tài:
+	Xây dựng ứng dụng trên AWS cho phép tạo database và cung cấp API để thêm, xóa sửa trên database.
+Yêu cầu:
+	- Xây dựng front-end 
+	- Xây dựng back-end sử dụng Lambda
+	- Database: DynamoDB
